@@ -1,14 +1,14 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : Lógica de Programação e Algoritmos
 // Professor   : Adriano Milanez
-// Descrição   : Calcula a média de três notas de um aluno
+// Descrição   : Calcula a média de duas notas de um aluno
 // e imprime na tela se foi aprovado, reprovado ou aprovado
 // com louvor (nota 10)
 // Autor(a)    : Igor Augusto
 // Data atual  : 25/08/2022
 Var
 // Seção de Declarações das variáveis 
-   nota1, nota2, nota3, media :real
+   nota1, nota2, media:real
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
@@ -18,10 +18,17 @@ Inicio
    escreva("Informe a nota2: ")
    leia(nota2)
    
-   escreva("Informe a nota3: ")
-   leia(nota3)
+   media <-(nota1 + nota2)/2
    
-   media <-(nota1 + nota2 + nota3 )/3
+   se media >= 7 e media <> 10 entao
+      escreva("Parabéns meu bom!")
+   fimse
+
+   se media = 10 entao
+      escreva("Aprovado com louvor!!! (nota 10)")
+
+   senao
+        escreva("Mais um ano com o André")
+   fimse
    
-   se media  =
 Fimalgoritmo
