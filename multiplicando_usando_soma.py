@@ -1,10 +1,11 @@
-fator1 = int(input("Digite o primeiro fator: "))
-fator2 = int(input("Digite o segundo fator: "))
+primeiroFator = int(input("Digite o primeiro número: "))
+segundoFator = int(input("Digite o segundo número: "))
+contador = 1
+produto = 0
 
-contador = 0
-
-while contador <= fator2:
-    resultado = fator2 + fator2
+while contador <= segundoFator:
+    produto = produto + primeiroFator
     contador = contador + 1
+
+print(primeiroFator, "x", segundoFator, " = ", produto)
     
-print(resultado)
