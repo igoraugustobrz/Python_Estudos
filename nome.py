@@ -1,1 +1,0 @@
-print("Olá, meu nome é Igor Augusto.")
