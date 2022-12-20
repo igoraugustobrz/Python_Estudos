@@ -3,7 +3,7 @@
 ---
 
 ## Sobre
-Este repositório foi criado para registar o meu desenvolvimento pessoal na linguagem de programação Python, o material utilizado para estudo é o livro Introdução à Programação com Python 3º Edição de Nilo Ney Coutinho Menezes, bem como o curso de Python da FIAP. 
+Este repositório foi criado para registar o meu desenvolvimento pessoal na linguagem de programação Python, o material utilizado no estudo foi o livro Introdução à Programação com Python 3º Edição de Nilo Ney Coutinho Menezes, bem como os três cursos de Python (Python 3 - Mundo 1, Python 3 - Mundo 2 e Python 3 - Mundo 3) do site Curso em Vídeo . 
 
 ---
 
