@@ -1,21 +1,63 @@
-# Python
+# Python Estudos
 
----
+## Descrição
 
-## Sobre
-Este repositório foi criado para registar o meu desenvolvimento pessoal na linguagem de programação Python, o material utilizado no estudo foi o livro Introdução à Programação com Python 3º Edição de Nilo Ney Coutinho Menezes, bem como os três cursos de Python (Python 3 - Mundo 1, Python 3 - Mundo 2 e Python 3 - Mundo 3) do site Curso em Vídeo . 
+Este repositório foi criado para registrar o meu aprendizado na linguagem de programação Python.
 
----
+## Status do projeto
 
-## Acompanhe meus Projetos
+Projeto em andamento.
 
-Se você gostou de algum dos meus projetos aqui no GitHub ou entrou direto neste repositório, te convido a me seguir, tenho diversas ideias para projetos futuros e pretendo evoluir muito na carreira de Desenvolvedor Front-End. 
+## Pré-requisitos
 
-E-mail: igoraugustobz@gmail.com
+### Tecnologias
 
-Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/igoraugustobrz/).
+- Python (v3.12.3).
 
-Enquanto isso, dê uma olha nos meus projetos já finalizados, ficarei feliz se você puder me fornecer algum feedback sobre os projetos, códigos, estruturas ou qualquer outra coisa que você possa relatar para que eu me torne um desenvolvedor melhor!
+## Instalando
 
+1. Clone o repositório para o seu ambiente local:
 
+```
+$ git clone https://github.com/igoraugustobrz/python-studies
+```
 
+2. Navegue até o diretório do projeto.
+
+```
+$ cd python-studies
+```
+
+## Contribuindo
+
+Contribuições são bem-vindas! Se você quiser contribuir para o projeto, siga as etapas abaixo:
+
+1. Fork o repositório e clone-o para o seu ambiente local.
+
+2. Crie uma nova branch:
+
+```
+git checkout -b minha-contribuicao
+```
+
+3. Faça as alterações desejadas e commit-as:
+
+```
+git commit -m "Minha contribuição"
+```
+
+4. Envie suas alterações para o repositório remoto:
+
+```
+git push origin minha-contribuicao
+```
+
+5. Abra uma solicitação de pull no repositório original.
+
+## Autor
+
+- Igor Augusto
+- E-mail: igoraugustobz@gmail.com
+- Me siga no [Instagram](https://www.instagram.com/iaugusto__/)
+- Acesse o meu [Portfólio](https://iaugusto.vercel.app/)
+- Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/igorbrz/)
