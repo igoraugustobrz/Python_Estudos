@@ -2,11 +2,14 @@
 
 ## Descrição
 
-Este repositório foi criado para registrar o meu aprendizado na linguagem de programação Python.
+Este repositório foi criado para documentar meu aprendizado na linguagem de programação Python. Abaixo estão os materiais de estudo que utilizei:
 
-## Status do projeto
+- [Formação em Python](https://www.cursoemvideo.com/cursos/);
+- [Machine Learning com Data Science](https://www.udemy.com/course/machine-learning-e-data-science-com-python-y/).
 
-Projeto em andamento.
+## Status do estudo
+
+Estudo concluído.
 
 ## Pré-requisitos
 
